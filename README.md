@@ -7,8 +7,6 @@ Atualmente sou desenvolvedor web (fullstack).
 
 Tenho conhecimentos sobre dois frameworks web populares, são eles: **Laravel 7** e **Boostrap 4**.
 
-Trabalho tambem com java (JavaFX e Swing).
-
 Sou membro da [Comunity-Dev-Angola](https://github.com/Community-Dev-Angola)
 
 COO da [CPresolver](https://github.com/CPresolver)
