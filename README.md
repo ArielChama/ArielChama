@@ -29,6 +29,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 
 ### Redes Sociais
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/arielrei.ogladiador)](https://www.facebook.com/arielrei.ogladiador)
+[![Linkedin Badge](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arielchama/)](https://www.instagram.com/arielchama/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-chama-19a4a71b8/)](https://www.linkedin.com/in/ariel-chama-19a4a71b8/)
 
 ![Ariel Chama GitHub stats](https://github-readme-stats.vercel.app/api?username=arielchama&show_icons=true&theme=cobalt)
